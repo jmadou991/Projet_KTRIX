@@ -1,0 +1,10 @@
+streamlit>=1.22.0
+pandas
+beautifulsoup4
+requests
+psycopg2-binary
+plotly
+wordcloud
+matplotlib
+python-dotenv
+pyngrok
